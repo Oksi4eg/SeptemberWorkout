@@ -76,4 +76,6 @@ public class Workout {
     public void setRecordWeight(int recordWeight) {
         this.recordWeight = recordWeight;
     }
+
+
 }
